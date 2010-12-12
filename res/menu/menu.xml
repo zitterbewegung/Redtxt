@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/about"	
+	android:title="@string/about_label"
+	android:alphabeticShortcut="@string/about_shortcut" />
+<item android:id="@+id/decrypt"	
+	android:title="@string/decrypt_label"
+	android:alphabeticShortcut="@string/decrypt_shortcut" />
+<item android:id="@+id/encrypt"	
+	android:title="@string/encrypt_label"
+	android:alphabeticShortcut="@string/encrypt_shortcut" />
+</menu>

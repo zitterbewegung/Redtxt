@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">redtxt</string>
+<string name="about_title">About redtxt</string>
+<string name="about_text">redtxt is a program that allows you to send encrypted sms texts with your phone. The encryption system used is the AES encryption system using CBC mode. Released under the GNU GPL at http://github.com/</string>
+<string name="about_label">About...</string> 
+<string name="settings_title">redtext settings</string>
+<string name="about_shortcut">a</string>
+<string name="encrypt_label">Encrypt</string>
+<string name="decrypt_label">Decrypt</string>
+<string name="decrypt_shortcut">d</string>
+<string name="encrypt_shortcut">e</string>
+<string name="button_pick_contact">Pick Contact</string>
+<string name="button_manual_entry">Manual Entry</string>
+</resources>
